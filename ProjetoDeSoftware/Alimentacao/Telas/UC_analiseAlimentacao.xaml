@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="ProjetoDeSoftware.Alimentacao.Telas.UC_analiseAlimentacao"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                     xmlns:toolkit="http://schemas.microsoft.com/wpf/2008/toolkit"
+        
+        xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+
+        xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+       
+             mc:Ignorable="d" 
+             d:DesignHeight="640" d:DesignWidth="1012" Background="#FF8DD6F5">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF0F6FC6" Offset="0" />
+                <GradientStop Color="White" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Rectangle Fill="#FF0F6FC6" Height="176" HorizontalAlignment="Left" Margin="677,358,0,0" Name="rt_concorrencia_logo" Stroke="{x:Null}" VerticalAlignment="Top" Width="212" />
+        <Label Content="ANÁLISES" FontFamily="Agency FB" FontSize="30" Foreground="White" Height="45" HorizontalAlignment="Left" Margin="27,9,0,0" Name="label1" VerticalAlignment="Top" Width="117" />
+        <Label Content="Dê uma olhada na concorrência" Height="31" HorizontalAlignment="Left" Margin="677,501,0,0" Name="label3" VerticalAlignment="Top" Width="303" Foreground="White" FontFamily="Agency FB" FontSize="19" />
+        <Image Height="91" HorizontalAlignment="Left" Margin="734,385,0,0" Name="image1" Stretch="Uniform" VerticalAlignment="Top" Width="93" Source="/ProjetoDeSoftware;component/Images/marcador.png" />
+        <Rectangle Height="176" HorizontalAlignment="Left" Margin="677,358,0,0" Name="rt_concorrencia" Stroke="{x:Null}" VerticalAlignment="Top" Width="212" Fill="#00000000"  Cursor="Hand" StrokeThickness="2" MouseUp="rt_concorrencia_MouseUp" />
+        <Label Content="" Height="272" HorizontalAlignment="Left" Margin="30,66,0,0" Name="lb_dica1" VerticalAlignment="Top" Width="950" FontFamily="Agency FB" FontSize="22" Foreground="White" />
+        <Label Content="" Height="40" HorizontalAlignment="Left" Margin="30,137,0,0" x:Name="lb_dica2" VerticalAlignment="Top" Width="859" FontFamily="Agency FB" FontSize="22" Foreground="White" />
+        <Label Content="" Height="40" HorizontalAlignment="Left" Margin="30,211,0,0" x:Name="lb_dica3" VerticalAlignment="Top" Width="405" FontFamily="Agency FB" FontSize="22" Foreground="White" />
+        <Label Content="" Height="40" HorizontalAlignment="Left" Margin="30,298,0,0" x:Name="lb_dica4" VerticalAlignment="Top" Width="405" FontFamily="Agency FB" FontSize="22" Foreground="White" />
+        <Rectangle Fill="#FF0F6FC6" Height="176" HorizontalAlignment="Left" Margin="99,360,0,0" x:Name="rt_concorrencia_logo_Copy" Stroke="{x:Null}" VerticalAlignment="Top" Width="212" />
+        <Label Content="A viabilidade do negócio é:" Height="36" HorizontalAlignment="Left" Margin="99,364,0,0" x:Name="label3_Copy" VerticalAlignment="Top" Width="303" Foreground="White" FontFamily="Agency FB" FontSize="19" />
+        <Label Content="100" Height="93" HorizontalAlignment="Left" Margin="216,441,0,0" x:Name="label3_Copy1" VerticalAlignment="Top" Width="95" Foreground="White" FontFamily="Agency FB" FontSize="72" />
+        <Rectangle HorizontalAlignment="Left" Margin="209,397,0,116" x:Name="rectangle1_Copy" Stroke="White" Width="6" Fill="White" RadiusY="2.5" RadiusX="2.5" RenderTransformOrigin="0.5,0.5" >
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="42.224"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Label Content="-" Height="93" HorizontalAlignment="Left" Margin="121,385,0,0" x:Name="label_viabilidade" VerticalAlignment="Top" Width="95" Foreground="White" FontFamily="Agency FB" FontSize="72" HorizontalContentAlignment="Center" />
+        <Button Content="VOLTAR" Cursor="Hand" FontFamily="Agency FB" FontSize="18" Height="44" HorizontalAlignment="Left" Margin="61,561,0,0" Name="bt_voltar" VerticalAlignment="Top" Width="178" />
+        <Rectangle Height="175" HorizontalAlignment="Left" Margin="408,364,0,0" Name="rectangle1" Stroke="#FF0F6FC6" VerticalAlignment="Top" Width="213" Fill="#FF0F6FC6" />
+        <Label Content="Confira análise gráfica" Height="43" HorizontalAlignment="Left" Margin="412,507,0,0" Name="label2" VerticalAlignment="Top" Width="183" FontFamily="Agency FB" FontSize="18" Foreground="White" />
+        <Image Height="102" HorizontalAlignment="Left" Margin="460,387,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="109" Source="/ProjetoDeSoftware;component/Images/grafico%20branco.png" />
+        <Rectangle Cursor="Hand" Fill="#00000000" Height="176" HorizontalAlignment="Left" Margin="408,363,0,0" Name="rt_graficos" Stroke="{x:Null}" StrokeThickness="2" VerticalAlignment="Top" Width="212"  />
+    </Grid>
+</UserControl>

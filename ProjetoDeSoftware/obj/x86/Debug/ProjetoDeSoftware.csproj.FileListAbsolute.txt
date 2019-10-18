@@ -1,0 +1,139 @@
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.exe
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.pdb
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\SQLite.NET.dll
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\System.Data.SQLite.dll
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\System.Data.SQLite.xml
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csprojResolveAssemblyReference.cache
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.baml
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.g.cs
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\App.g.cs
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware_MarkupCompile.cache
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.g.resources
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.Properties.Resources.resources
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csproj.GenerateResource.Cache
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.exe
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.pdb
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_EscolhaAnalise.baml
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_EscolhaAnalise.g.cs
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_pesquisar.baml
+c:\users\jvictor\documents\visual studio 2010\Projects\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_pesquisar.g.cs
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.exe
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.pdb
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\System.Data.SQLite.xml
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csprojResolveAssemblyReference.cache
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_EscolhaAnalise.baml
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_pesquisar.baml
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_EscolhaAnalise.g.cs
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_pesquisar.g.cs
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\App.g.cs
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware_MarkupCompile.cache
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.g.resources
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.Properties.Resources.resources
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csproj.GenerateResource.Cache
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.exe
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.exe
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_analise.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_EscolhaAnalise.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_pesquisar.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_analise.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_EscolhaAnalise.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_pesquisar.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\App.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware_MarkupCompile.cache
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.g.resources
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.Properties.Resources.resources
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csproj.GenerateResource.Cache
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.exe
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_maps.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_maps.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.exe
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.exe
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_analise.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_EscolhaAnalise.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_maps.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_pesquisar.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_analise.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_EscolhaAnalise.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_maps.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_pesquisar.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\App.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware_MarkupCompile.cache
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.g.resources
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.Properties.Resources.resources
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware (laranja tarde2)\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csproj.GenerateResource.Cache
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_analise.baml
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_maps.baml
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_analise.g.cs
+C:\Users\teteu\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\VaiDarNegocio\Telas\UC_maps.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.exe
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\App.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware_MarkupCompile.cache
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.g.resources
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.Properties.Resources.resources
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csproj.GenerateResource.Cache
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.exe
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Alimentacao\Telas\UC_formularioAlimentacao.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_analise.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_EscolhaAnalise.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_maps.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_pesquisar.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\w_maps.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Alimentacao\Telas\UC_formularioAlimentacao.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_analise.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_EscolhaAnalise.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_maps.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_pesquisar.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\w_maps.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\w_graficos.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\w_graficos.g.cs
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Alimentacao\Telas\UC_analiseAlimentacao.baml
+C:\Users\Jvictor\Desktop\ProjetoDeSoftware\ProjetoDeSoftware\obj\x86\Debug\Alimentacao\Telas\UC_analiseAlimentacao.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.exe
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.exe
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\bin\Debug\ProjetoDeSoftware.pdb
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Alimentacao\Telas\UC_analiseAlimentacao.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\w_graficos.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\MainWindow.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Alimentacao\Telas\UC_formularioAlimentacao.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_analise.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_EscolhaAnalise.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_maps.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_pesquisar.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\w_maps.baml
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Alimentacao\Telas\UC_analiseAlimentacao.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\w_graficos.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Alimentacao\Telas\UC_formularioAlimentacao.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_analise.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_EscolhaAnalise.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_maps.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\UC_pesquisar.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\Educacao\Telas\w_maps.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\App.g.cs
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware_MarkupCompile.cache
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.g.resources
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.Properties.Resources.resources
+C:\Users\Jvictor\Desktop\framework-de-viabiliade-de-implantacao-de-negocios\ProjetoDeSoftware\obj\x86\Debug\ProjetoDeSoftware.csproj.GenerateResource.Cache

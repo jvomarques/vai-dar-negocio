@@ -1,0 +1,8 @@
+﻿<Window x:Class="ProjetoDeSoftware.Alimentacao.Telas.w_maps"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Vai dar negócio?" Height="472" Width="600" Cursor="No" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow" ResizeMode="NoResize">
+    <Grid>
+        <WebBrowser Height="877" HorizontalAlignment="Left" Margin="-386,-194,0,0" Name="navegador_maps" VerticalAlignment="Top" Width="1016" Cursor="No" IsManipulationEnabled="True" UseLayoutRounding="True" SnapsToDevicePixels="True" />
+    </Grid>
+</Window>

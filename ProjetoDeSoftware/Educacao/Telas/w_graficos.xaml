@@ -1,0 +1,20 @@
+﻿<Window x:Class="ProjetoDeSoftware.Educacao.Telas.w_graficos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+
+        xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+       
+        Title="Vai dar negócio?" Height="365" Width="541" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF0F6FC6" Offset="0" />
+                <GradientStop Color="White" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <charting:Chart x:Name="grafico_mensalidade" Margin="117,56,0,0" HorizontalAlignment="Left" Width="298" Height="209" VerticalAlignment="Top">
+            <charting:PieSeries ItemsSource="{Binding}" DependentValuePath="Value" IndependentValuePath="Key" Title="População total" IsSelectionEnabled="True" Margin="10,10,1,10" />
+        </charting:Chart>
+    </Grid>
+</Window>

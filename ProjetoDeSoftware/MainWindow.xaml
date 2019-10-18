@@ -1,0 +1,23 @@
+﻿<Window x:Class="ProjetoDeSoftware.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        xmlns:toolkit="http://schemas.microsoft.com/wpf/2008/toolkit"
+        
+        xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+
+        xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        
+        
+        Title="Vai dar negócio?" Height="640" Width="1012" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Name="g_global">
+        
+        <Grid.Background>
+            <ImageBrush ImageSource="/ProjetoDeSoftware;component/Images/tela%20inicial.png" />
+        </Grid.Background>
+
+
+        <Label Content="Módulo" Height="64" HorizontalAlignment="Left" Margin="570,407,0,0" Name="label1" VerticalAlignment="Top" Width="116" Foreground="White" FontFamily="Agency FB" FontSize="40" />
+        <Button Content="EDUCAÇÃO" Height="42" HorizontalAlignment="Left" Margin="570,462,0,0" Name="bt_educacao" VerticalAlignment="Top" Width="216" Background="#FF0D4471" Foreground="#FFFFFCFC" FontSize="17" FontStretch="Normal" FontWeight="Normal" BorderBrush="White" BorderThickness="2" Cursor="Hand" MouseEnter="bt_educacao_MouseEnter" MouseLeave="bt_educacao_MouseLeave" Click="bt_educacao_Click" />
+    </Grid>
+</Window>
